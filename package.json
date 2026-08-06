@@ -1,0 +1,11 @@
+{
+  "name": "enigma-bombe-simulator",
+  "version": "1.0.0",
+  "description": "Historically accurate Enigma I simulator with a crib-based Bombe-style attack",
+  "main": "enigma.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "license": "MIT",
+  "author": "Ceye (Djad)"
+}
